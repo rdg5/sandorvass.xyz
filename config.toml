@@ -5,7 +5,6 @@ title = "S.V."
 theme = "hermit"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-rssLimit = 10
 enableEmoji = true
 
 [author]
