@@ -1,4 +1,4 @@
-baseURL = "https://sandorvass.xyz"
+baseURL = "http://sandorvass.xyz"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
