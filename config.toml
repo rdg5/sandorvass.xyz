@@ -41,7 +41,7 @@ enableEmoji = true
 
     [[menu.main]]
     name = "wiki"
-    url = "wiki.sandorvass.xyz"
+    url = "https://wiki.sandorvass.xyz"
     weight = 20
 
 
